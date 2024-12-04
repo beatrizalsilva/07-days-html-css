@@ -6,3 +6,5 @@ Objetivo: desenvolver uma página para uma empresa de TI voltada a novas contrat
 
 ## Desafios Diários
 - Dia 1: criar o cabeçalho com três divisórias: logo, navegação e botões.
+- Dia 2: desenvolver a primeira seção da página, também chamada de "cabeçalho".
+- Dia 3: desenvolver seção de métricas e resultados.
