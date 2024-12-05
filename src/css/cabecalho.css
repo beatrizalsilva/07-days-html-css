@@ -14,14 +14,14 @@ span {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: 600;
     line-height: 60px;
     color: #101828;
 }
 
 p {
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 400;
     line-height: 30px;
     text-align: center;
